@@ -30,3 +30,4 @@ public class Main {
       System.out.println(String.format("%s nota(s) de R$ 1,00", valor / 1));
     }
 }
+
