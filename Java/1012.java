@@ -24,3 +24,4 @@ public class Main {
       System.out.println(String.format("RETANGULO: %.3f", retangulo));
     }
 }
+
